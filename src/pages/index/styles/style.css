@@ -1,0 +1,39 @@
+.main__image {
+    margin: -5px;
+    width: 1062px;
+    height: 574px;
+}
+.main__left {
+    padding: 80px 0 240px 100px;
+    list-style-type: none;
+    float: left;
+display: block;
+width: 740px;
+}
+.section__photodiary {
+font-family: Arial;
+font-size: 14px;
+color: #626262;
+}
+
+.headline__theperfect {
+margin: 30px 0 0 119px ;
+font-size: 29px;
+font-family: "Arial";
+font-weight: bold;
+color: #626262;
+}
+
+.left__text {
+    margin: 38px 0 0 119px ;
+    width: 657px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+    font-family: "Arial";
+}
+
+.main_image4 {
+    margin: 0 0 0 119px ;
+}
+

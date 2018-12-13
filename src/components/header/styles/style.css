@@ -1,0 +1,56 @@
+.header, main {
+    width: 1062px;
+    margin: 68px auto 0 auto;
+    font-size: 0;
+}
+
+.header__mimimo {
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #434244;
+    margin: 0;
+    display: inline;
+    padding-right: 245px;
+    letter-spacing: 7px;
+}
+
+.section {
+    list-style: none;
+}
+
+.sections {
+display: inline-block;
+margin-right: 10px;
+font-family: Arial;
+font-size: 14px;
+color: #626262;
+
+}
+
+.header__section {
+   padding: 0;
+line-height: 24px;
+}
+
+.header__mimimo {
+  
+    font-size: 23px;
+}
+
+.section__lifestyle {
+    padding-left: 100px;
+}
+
+.section__photodiary {
+    padding-left: 120px;
+}
+
+.section__music {
+    padding-left: 80px;
+}
+
+.section__travel {
+    padding-left: 50px;
+}

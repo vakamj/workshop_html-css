@@ -1,0 +1,21 @@
+.footer {
+    clear: left;
+    height: 98px;
+    width: 1201px;
+    background-color: #efefef;
+}
+
+.footer__section {
+    list-style: none;
+    display: inline-block;
+    padding:0 0 0 220px;
+}
+
+.foot_sec {
+height: 42px;
+display: inline-block;
+    padding-right: 21px;
+    font-size: 14px;
+    color: black;
+    font-family: "Arial"; 
+}
